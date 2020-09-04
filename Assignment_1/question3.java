@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class ques3{
+public class question3{
 
 	static class Edge{
 
