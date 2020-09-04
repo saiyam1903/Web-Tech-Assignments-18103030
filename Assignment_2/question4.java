@@ -1,6 +1,6 @@
 package com.company;
 
-public class Main {
+public class question4 {
     public static void main(String[] args) {
         int sum=0, i=1;
         for(; i<Integer.MAX_VALUE; i++) {
